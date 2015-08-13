@@ -86,7 +86,7 @@ let s:descriptions = {
       \ "ctrlspace#keys#buffer#MoveTab":                      "Move the current tab left/right (+/-)",
       \ "ctrlspace#keys#buffer#SwitchTab":                    "Go to the previous/next ([/]) tab",
       \ "ctrlspace#keys#buffer#CopyBufferToTab":              "Copy the selected buffer to the previous/next (</>) tab",
-      \ "ctrlspace#keys#buffer#MoveBufferToTab":              "Move the selected buffer to to the previous/next ({/}) tab",
+      \ "ctrlspace#keys#buffer#MoveBufferToTab":              "Move the selected buffer to the previous/next ({/}) tab",
       \ "ctrlspace#keys#buffer#DeleteBuffer":                 "Delete the selected buffer (close it)",
       \ "ctrlspace#keys#buffer#DeleteHiddenNonameBuffers":    "Close all empty noname buffers",
       \ "ctrlspace#keys#buffer#ToggleAllMode":                "Enter the All Mode",
